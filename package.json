@@ -1,0 +1,13 @@
+{
+    "name": "serverless-express-api-template",
+    "description": "A simple serverless express template used to create a serverless API with Lambda & API Gateway on AWS",
+    "version": "0.0.1",
+    "author": "Robert O'Connor",
+    "dependencies": {
+        "aws-serverless-express": "3.3.8",
+        "express": "4.17.1",
+        "body-parser": "1.19.0"
+    },
+    "devDependencies": {},
+    "scripts": {}
+}
